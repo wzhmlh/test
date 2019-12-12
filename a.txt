@@ -1,1 +1,7 @@
-啊实打实实打实大苏打
+package com.zking.util
+
+public class demo{
+     public static void main(String[] args){
+     System.out.println("hello,git!!");
+     }
+}
